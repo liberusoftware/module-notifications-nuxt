@@ -1,0 +1,25 @@
+{
+  "repository": "module-notifications-nuxt",
+  "capabilityKey": "liberusoftware/notifications",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-notifications-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/boilerplate/nextjs/notifications.md",
+  "presentationPlan": "projects/boilerplate/nuxt/notifications.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
